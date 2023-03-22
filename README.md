@@ -7,7 +7,7 @@
     <img src="https://avatars.githubusercontent.com/u/90607105?s=200&v=4" alt="Logo" width="80" height="80">
   </a>
   
-  <h3 align="center">Instagram-Clone-Project</h3>
+  <h3 align="center">Instagram-Clone-Project</h3></div>
 
 ## 팀원
 |이현수|유가인|김이레|강민세|
