@@ -8,6 +8,8 @@
   </a>
   
   <h3 align="center">Instagram-Clone-Project</h3></div>
+  
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 팀원
 |이현수|유가인|김이레|강민세|
@@ -15,6 +17,8 @@
 
 ## 회의 일정
 매주 월요일
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 클론 코딩 단계별 순서
 클론 코딩을 수행하는 단계별 순서는 다음과 같습니다.
