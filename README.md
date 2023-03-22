@@ -1,8 +1,20 @@
 # 클클랐다 TF팀
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Instagram-Clone-Coding">
+    <img src="https://avatars.githubusercontent.com/u/90607105?s=200&v=4" alt="Logo" width="80" height="80">
+  </a>
+  
+  <h3 align="center">Instagram-Clone-Project</h3>
+
 ## 팀원
 |이현수|유가인|김이레|강민세|
 |:---:|:---:|:---:|:---:|
+
+## 회의 일정
+매주 월요일
 
 ## 클론 코딩 단계별 순서
 클론 코딩을 수행하는 단계별 순서는 다음과 같습니다.
